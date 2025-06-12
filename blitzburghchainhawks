@@ -1,1 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blitzburgh Chainhawks (BCH) | GGZ League Team Token</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f0f0f;
+      color: #f1f1f1;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: linear-gradient(to right, #ffa500, #ff4500);
+      padding: 2rem 1rem;
+    }
+    header img {
+      width: 120px;
+    }
+    h1 {
+      font-size: 3rem;
+      margin: 1rem 0;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: 1rem auto;
+    }
+    a.button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      margin: 1rem;
+      background-color: #ff4500;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem 1rem;
+    }
+    .logo {
+      width: 300px;
+      margin: 2rem auto;
+    }
+    footer {
+      background: #1a1a1a;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="chainhawks-logo.png" alt="Blitzburgh Chainhawks Logo" />
+    <h1>🦅 Blitzburgh Chainhawks (BCH)</h1>
+    <p>The first official GGZ League team token. Fan-fueled. Meme-powered. Blockchain blitz ready.</p>
+    <a class="button" href="whitepaper.pdf" target="_blank">📄 View Whitepaper</a>
+    <a class="button" href="https://moon.it/tokens/..." target="_blank">🌕 Buy BCH on Moon.it</a>
+  </header>
+
+  <section>
+    <h2>🔥 What is BCH?</h2>
+    <p>
+      Blitzburgh Chainhawks (BCH) represents the ultimate gridiron defense energy on the Solana blockchain. 
+      As part of the GridironGodz (GGZ) League, BCH is your ticket to faction wars, meme battles, staking perks, and decentralized fan-powered governance.
+    </p>
+    <p>
+      Launching from the steel-forged city of Blitzburgh, these hawks take no prisoners and play to win. Join the flock.
+    </p>
+  </section>
+
+  <section>
+    <h2>🏈 Token Stats</h2>
+    <p>Total Supply: 500,000,000 BCH<br />
+       Blockchain: Solana<br />
+       LP Locked | Daily LPFE Rewards | Burn Wallet Enabled</p>
+  </section>
+
+  <section>
+    <h2>📈 Live Chart</h2>
+    <iframe src="https://dexscreener.com/solana/..." width="100%" height="500" style="border:none;"></iframe>
+  </section>
+
+  <footer>
+    <p>Blitzburgh Chainhawks is a fictional fan token within the GridironGodz League.<br />
+    Not affiliated with the NFL or any professional sports organization.<br />
+    &copy; 2025 BlitzburghChainhawks</p>
+  </footer>
+</body>
+</html>
 
